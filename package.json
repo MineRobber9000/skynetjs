@@ -1,0 +1,22 @@
+{
+  "name": "skynetjs",
+  "version": "0.0.1",
+  "description": "A Javascript library to interface with osmarks' skynet service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MineRobber9000/skynetjs.git"
+  },
+  "author": "khuxkm fbexl <khuxkm@ttm.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MineRobber9000/skynetjs/issues"
+  },
+  "homepage": "https://github.com/MineRobber9000/skynetjs#readme",
+  "dependencies": {
+    "ws": "^6.1.0"
+  }
+}
